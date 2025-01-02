@@ -67,8 +67,8 @@ The dataset used in this project is sourced from Kaggle:
 
 ## Contributors
 - **Abdelfattah Bouhlali**
-  - [GitHub Profile](https://github.com/bydevmar)
-  - [GitHub Profile](https://github.com/tinbyte)
+  - [BYDEVMAR](https://github.com/bydevmar)
+  - [TINBYTE](https://github.com/tinbyte)
 
 ---
 
